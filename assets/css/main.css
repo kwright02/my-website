@@ -1968,7 +1968,7 @@ input, select, textarea {
 		button.primary,
 		.button.primary {
 			box-shadow: none;
-			background-color: #4696e5;
+			background-color: #b53e3e;
 			color: #ffffff !important;
 		}
 
@@ -1985,7 +1985,7 @@ input, select, textarea {
 			input[type="button"].primary:active,
 			button.primary:active,
 			.button.primary:active {
-				background-color: #3089e2;
+				background-color: #b53e3e;
 			}
 
 /* Form */
@@ -2979,7 +2979,7 @@ input, select, textarea {
 				.wrapper.style1 .button.primary {
 					box-shadow: none;
 					background-color: #ffffff;
-					color: #4696e5 !important;
+					color: #e64646 !important;
 				}
 
 			.wrapper.style1 label {
@@ -3024,7 +3024,7 @@ input, select, textarea {
 			.wrapper.style1 input[type="radio"]:checked + label:before {
 				background-color: #ffffff;
 				border-color: #ffffff;
-				color: #4696e5;
+				color: #e64646;
 			}
 
 			.wrapper.style1 input[type="checkbox"]:focus + label:before,
@@ -3173,7 +3173,7 @@ input, select, textarea {
 				.wrapper.style2 button.primary,
 				.wrapper.style2 .button.primary {
 					box-shadow: none;
-					background-color: #4696e5;
+					background-color: #e64646;
 					color: #ffffff !important;
 				}
 
@@ -3182,7 +3182,7 @@ input, select, textarea {
 					.wrapper.style2 input[type="button"].primary:hover,
 					.wrapper.style2 button.primary:hover,
 					.wrapper.style2 .button.primary:hover {
-						background-color: #5ca3e8;
+						background-color: #e64646;
 					}
 
 					.wrapper.style2 input[type="submit"].primary:active,
@@ -3190,7 +3190,7 @@ input, select, textarea {
 					.wrapper.style2 input[type="button"].primary:active,
 					.wrapper.style2 button.primary:active,
 					.wrapper.style2 .button.primary:active {
-						background-color: #3089e2;
+						background-color: #e64646;
 					}
 
 			.wrapper.style2 label {
@@ -3212,8 +3212,8 @@ input, select, textarea {
 				.wrapper.style2 input[type="email"]:focus,
 				.wrapper.style2 select:focus,
 				.wrapper.style2 textarea:focus {
-					border-color: #4696e5;
-					box-shadow: 0 0 0 1px #4696e5;
+					border-color: #e64646;
+					box-shadow: 0 0 0 1px #e64646;
 				}
 
 			.wrapper.style2 .select-wrapper:before {
